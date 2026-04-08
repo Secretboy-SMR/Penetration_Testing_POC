@@ -810,6 +810,7 @@
 - [shannon：面向 Web 应用与 API 的自主 AI 渗透测试工具，支持代码感知动态漏洞挖掘与自动化 PoC 验证](https://github.com/KeygraphHQ/shannon)
 - [孚盟云CRM AjaxTrackInfo.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-AjaxTrackInfo-sqli.html)
 - [孚盟云CRM DingHandler.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-DingHandler-sqli.html)
+- [孚盟云CRM PriceList.ashx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-PriceList-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
