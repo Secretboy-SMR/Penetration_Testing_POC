@@ -85,6 +85,7 @@
 - [vphone-aio：一键运行已越狱并安装完整bootstrap的iOS虚拟手机(vphone)脚本](https://github.com/34306/vphone-aio)
 - [FirmWire：支持三星 Shannon 和 MediaTek 基带固件的全系统动态分析平台，可用于模糊测试、漏洞根因分析与调试](https://github.com/FirmWire/FirmWire)
 - [Podroid：无需 root 即可在 Android 手机上运行 Linux 容器，基于 QEMU 启动 Alpine Linux 虚拟机并提供完整的 Podman 容器运行时](https://github.com/ExTV/Podroid)
+- [Tsec-Salon：腾讯安全沙龙历届活动材料](https://github.com/Yeti-791/Tsec-Salon)|[Java Ghost Bits - Black Hat Asia 2026 演讲PDF(幽灵比特位:高位截断)](https://i.blackhat.com/Asia-26/Presentations/Asia-26-Bai-Cast-Attack-Ghost-Bits-4.23.pdf)
 
 ## <span id="head4">Web APP</span>
 
@@ -834,6 +835,7 @@
 - [孚盟云CRM CustomizeReportSelectMould.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-CustomizeReport-CustomizeReportSelectMould-sqli.html)
 - [孚盟云CRM ClientNameCard.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Card-ClientNameCard-sqli.html)
 - [孚盟云CRM BusinessPrice.aspx SQL注入漏洞](https://mrxn.net/jswz/fumacrm-Dingding-Product-BusinessPrice-sqli.html)
+- [cPanel WHM 权限绕过致RCE【cve-2026-41940】](https://github.com/watchtowrlabs/watchTowr-vs-cPanel-WHM-AuthBypass-to-RCE.py) | [cve-2026-41940 漏洞分析](https://labs.watchtowr.com/the-internet-is-falling-down-falling-down-falling-down-cpanel-whm-authentication-bypass-cve-2026-41940/)
 
 
 ## <span id="head5"> 提权辅助相关</span>
@@ -913,6 +915,7 @@
 - [【Windows提权 Windows 10/11, Server 2019/2022（含Defender）】RedSun：滥用Windows Defender云标签行为覆盖系统文件并获得管理员权限](https://github.com/Nightmare-Eclipse/RedSun)
 - [【Windows Defender DOS】UnDefend：无需管理员权限，被动模式下阻止Defender签名更新，激进模式下在Windows平台更新时完全禁用Windows Defender](https://github.com/Nightmare-Eclipse/UnDefend)
 - [【Windows提权】CVE-2026-0827：Lenovo LdeApi.Server.exe 无模拟写文件本地提权漏洞——低权限用户可创建 NTFS junction 使服务以 SYSTEM 权限向任意位置写文件](https://github.com/ZeroMemoryEx/CVE-2026-0827)
+- [【Linux提取】CVE-2026-31431：Linux Copy Fail提权](https://github.com/theori-io/copy-fail-CVE-2026-31431) | [CVE-2026-31431](https://github.com/rootsecdev/cve_2026_31431)
 
 ## <span id="head6"> PC</span>
 
